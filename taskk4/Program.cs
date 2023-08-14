@@ -1,0 +1,22 @@
+﻿using taskk4;
+System.Console.WriteLine();
+var car = new Car();
+car.Speed=150;
+car.Start();
+System.Console.WriteLine(car.DriveM());
+car.Stop();
+car.Start();
+car.Speed=160;
+System.Console.WriteLine(car.DriveM());
+car.Stop();
+System.Console.WriteLine();
+var mtr=new Motorcycle();
+mtr.Speed=120;
+mtr.Start();
+System.Console.WriteLine(mtr.DriveC());
+mtr.Stop();
+mtr.Start();
+mtr.Speed=140;
+System.Console.WriteLine(mtr.DriveC());
+mtr.Stop();
+

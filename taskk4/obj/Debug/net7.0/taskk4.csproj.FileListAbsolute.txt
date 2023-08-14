@@ -1,0 +1,14 @@
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\taskk4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\taskk4.AssemblyInfoInputs.cache
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\taskk4.AssemblyInfo.cs
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\taskk4.csproj.CoreCompileInputs.cache
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\bin\Debug\net7.0\taskk4.exe
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\bin\Debug\net7.0\taskk4.deps.json
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\bin\Debug\net7.0\taskk4.runtimeconfig.json
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\bin\Debug\net7.0\taskk4.dll
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\bin\Debug\net7.0\taskk4.pdb
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\taskk4.dll
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\refint\taskk4.dll
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\taskk4.pdb
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\taskk4.genruntimeconfig.cache
+C:\Users\hhp\Desktop\Exam\Exam4\taskk4\obj\Debug\net7.0\ref\taskk4.dll
